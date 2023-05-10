@@ -4,6 +4,7 @@ Group project.
 
 An app to show your current location, to find where the closest service station is based off the location you put into the map.
 
+(Commodities API key outdated, so no current prices shown)
 ![Servo API screenshot](/public/icons/servoapi.png)
 
 # Features
